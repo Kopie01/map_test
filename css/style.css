@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#map{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+#button{
+	background-color: yellow;
+	position: absolute;
+	z-index: 100;
+	padding: 20px;
+}
+
+
+
+
